@@ -1,0 +1,20 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "A simple clock.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "open client/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajpawlicki/clock.git"
+  },
+  "author": "Aloysius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajpawlicki/clock/issues"
+  },
+  "homepage": "https://github.com/ajpawlicki/clock#readme"
+}
